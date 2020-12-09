@@ -1,1 +1,1 @@
-# MERN
+# MERN-stack Project
