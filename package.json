@@ -1,23 +1,23 @@
 {
-  "name": "MERN",
+  "name": "mern",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xkendx/MERN-stack-Project.git"
+    "url": "git+https://github.com/johnclarusway/mern-stack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xkendx/MERN-stack-Project/issues"
+    "url": "https://github.com/johnclarusway/mern-stack/issues"
   },
-  "homepage": "https://github.com/xkendx/MERN-stack-Project#readme",
+  "homepage": "https://github.com/johnclarusway/mern-stack#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
