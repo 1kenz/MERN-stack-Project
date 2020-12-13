@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnclarusway/mern-stack.git"
+    "url": "git+https://github.com/xkendx/MERN-stack-Project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnclarusway/mern-stack/issues"
+    "url": "https://github.com/xkendx/MERN-stack-Project/issues"
   },
-  "homepage": "https://github.com/johnclarusway/mern-stack#readme",
+  "homepage": "https://github.com/xkendx/MERN-stack-Project#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
